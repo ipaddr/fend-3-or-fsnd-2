@@ -41,8 +41,7 @@ body {
 }
 
 .devider {
-    background: #7d97ad;
-    height: 2px;
+    border-bottom: solid #7d97ad;
 }
 
 .app-detail {
